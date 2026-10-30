@@ -1,409 +1,144 @@
-<!-- ========================================================= -->
-<!--                         SIR DEVS                           -->
-<!--              SECURITY · AUTOMATION · PROTECTION            -->
-<!-- ========================================================= -->
+<div align="center">
+
+![SIR DEVS](https://capsule-render.vercel.app/api?type=rect&height=200&color=0:050505,50:111113,100:050505&text=SIR%20DEVS&fontSize=60&fontColor=F5F5F5&fontAlignY=42&desc=SECURITY%20OPERATIONS%20FOR%20DISCORD&descSize=15&descAlignY=66&descColor=DC2626&stroke=D4AF37&strokeWidth=1&animation=fadeIn)
+
+<!-- A single typing line, styled as a shell prompt, is the only animation on the page -->
+[![sir --status](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=1000&color=D4AF37&center=true&vCenter=true&width=640&height=36&lines=%24+sir+--status;%E2%9C%93+all+defence+layers+online;%24+sir+invite+--server+your-community;%E2%9C%93+free+for+every+server)](https://sirbot.dev/)
+
+[![Invite Bot](https://img.shields.io/badge/%2B%20INVITE%20BOT-DC2626?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=716015608369643630)
+[![Website](https://img.shields.io/badge/SIRBOT.DEV-111113?style=for-the-badge&logo=googlechrome&logoColor=D4AF37)](https://sirbot.dev/)
+[![Support Server](https://img.shields.io/badge/SUPPORT%20SERVER-111113?style=for-the-badge&logo=discord&logoColor=D4AF37)](https://discord.gg/sirbot)
+
+</div>
+
+<br>
+
+## ◈ Free for Every Server
+
+Protection, moderation, logging and the rest come without any subscription.
+
+```diff
+┌─ SIR · SECURITY CONSOLE ─────────────────────────────────────────────┐
+$ sir modules --plan free
+
++ [ ONLINE ]  protection      anti-raid · anti-nuke · permission guard
++ [ ONLINE ]  automod         spam · mass mentions · malicious links
++ [ ONLINE ]  logs            every event and action recorded
++ [ ONLINE ]  welcome         greet every new member
++ [ ONLINE ]  levels          XP and ranks for active members
++ [ ONLINE ]  tickets         private support tickets
++ [ ONLINE ]  giveaways       community giveaways
++ [ ONLINE ]  temp-voice      voice channels created on demand
++ [ ONLINE ]  automation      custom server workflows
++ [ ONLINE ]  embeds          rich embed messages
++ [ ONLINE ]  notifications   alerts for 3 accounts (25 with Premium)
+- [ THREAT ]  12 malicious joins detected  →  lockdown engaged
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+## ◈ Response Pipeline
+
+Every event in your server passes through the same four-stage pipeline.
 
 <div align="center">
 
-<!-- ========================= HERO ========================== -->
+<img alt="Response pipeline: Discord Event → Detect → Analyze → Respond → Audit Log → Staff Alert" src="https://mermaid.ink/img/JSV7aW5pdDogeyd0aGVtZSc6J2RhcmsnLCAndGhlbWVWYXJpYWJsZXMnOiB7J2ZvbnRGYW1pbHknOidTZWdvZSBVSSwgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZicsICdmb250U2l6ZSc6JzE1cHgnfX19JSUKZmxvd2NoYXJ0IExSCiAgICBFKFtEaXNjb3JkIEV2ZW50XSkgLS0-IER7RGV0ZWN0fQogICAgRCAtLSBjbGVhbiAtLT4gUChbQWxsb3dlZF0pCiAgICBEIC0tIHN1c3BpY2lvdXMgLS0-IEFbQW5hbHl6ZTxici8-cmF0ZSDCtyBwZXJtaXNzaW9ucyDCtyByZXB1dGF0aW9uXQogICAgQSAtLT4gUltSZXNwb25kPGJyLz5sb2NrZG93biDCtyByZXZva2UgwrcgdGltZW91dCDCtyBiYW5dCiAgICBSIC0tPiBMWyhBdWRpdCBMb2cpXQogICAgTCAtLT4gUyhbU3RhZmYgQWxlcnRdKQoKICAgIGNsYXNzRGVmIGdvbGQgZmlsbDojMTgxODFCLHN0cm9rZTojRDRBRjM3LGNvbG9yOiNGNUY1RjUsc3Ryb2tlLXdpZHRoOjJweAogICAgY2xhc3NEZWYgcmVkIGZpbGw6IzE4MTgxQixzdHJva2U6I0RDMjYyNixjb2xvcjojRjVGNUY1LHN0cm9rZS13aWR0aDoycHgKICAgIGNsYXNzRGVmIGNhbG0gZmlsbDojMTgxODFCLHN0cm9rZTojNTI1MjVCLGNvbG9yOiNBMUExQUEKICAgIGNsYXNzIEUsRCxBLEwgZ29sZAogICAgY2xhc3MgUixTIHJlZAogICAgY2xhc3MgUCBjYWxtCiAgICBsaW5rU3R5bGUgZGVmYXVsdCBzdHJva2U6I0Q0QUYzNyxzdHJva2Utd2lkdGg6MnB4Cg?type=png&bgColor=0D1117&width=1000">
 
-![SIR DEVS](https://capsule-render.vercel.app/api?type=rect&height=250&color=0:050505,50:101012,100:050505&text=SIR%20DEVS&fontSize=62&fontColor=F5F5F5&fontAlignY=40&desc=SECURITY%20%C2%B7%20AUTOMATION%20%C2%B7%20PROTECTION&descSize=17&descAlignY=63&descColor=D4AF37&stroke=DC2626&strokeWidth=2)
+</div>
 
-<br>
+## ◈ Threat Matrix
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&width=760&height=45&lines=YOUR+SAFETY+%C2%B7+OUR+PRIORITY;REALTIME+SECURITY+%C2%B7+INTELLIGENT+AUTOMATION;PROTECT+%C2%B7+DETECT+%C2%B7+RESPOND+%C2%B7+AUTOMATE)](https://github.com/Sir-Devs)
+| Threat | How SIR detects it | Automated response |
+|:--|:--|:--|
+| 🚨 **Raid** | Join-rate spikes, new-account clustering | Server lockdown + verification gate |
+| 💣 **Nuke** | Bursts of channel / role / ban actions | Revoke offender's permissions, alert staff |
+| 📢 **Spam** | Message rate, duplicates, mass mentions | Timeout + message purge |
+| 🔗 **Malicious links** | Domain reputation & pattern matching | Delete, log, warn |
+| 🔑 **Permission abuse** | Role & permission change monitoring | Revert change, record in audit log |
 
-<br>
+## ◈ Plans
 
-<!-- ======================= STATUS ========================= -->
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-[![Security](https://img.shields.io/badge/◈%20SECURITY-REALTIME%20DEFENSE-09090B?style=for-the-badge&labelColor=18181B&logo=shield&logoColor=D4AF37)](https://github.com/Sir-Devs)
-[![Zero Trust](https://img.shields.io/badge/◈%20ARCHITECTURE-ZERO--TRUST-09090B?style=for-the-badge&labelColor=18181B&logo=lock&logoColor=DC2626)](https://github.com/Sir-Devs)
-[![Availability](https://img.shields.io/badge/◈%20SYSTEM-HIGH%20AVAILABILITY-09090B?style=for-the-badge&labelColor=18181B&logo=server&logoColor=D4AF37)](https://github.com/Sir-Devs)
+### 🛡️ Free
+
+## $0
+
+<sub>forever</sub>
+
+Protection, moderation, logging and every core module.
+
+[![Available now](https://img.shields.io/badge/%E2%96%B6%20AVAILABLE%20NOW-16A34A?style=flat-square)](https://discord.com/oauth2/authorize?client_id=716015608369643630)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎵 Premium
+
+## $1.99
+
+<sub>/month</sub>
+
+Music and the DJ controls.
+
+![Coming soon](https://img.shields.io/badge/%E2%8C%9B%20COMING%20SOON-D4AF37?style=flat-square)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 👑 Custom Bundle
+
+## $8.99
+
+<sub>/month</sub>
+
+A build shaped around your server.
+
+![Most complete](https://img.shields.io/badge/MOST%20COMPLETE-DC2626?style=flat-square)
+![Coming soon](https://img.shields.io/badge/%E2%8C%9B%20COMING%20SOON-D4AF37?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+| Feature | Free | Premium | Custom Bundle |
+|:--|:--:|:--:|:--:|
+| Protection · AutoMod · Logs | ✅ | ✅ | ✅ |
+| Welcome · Levels · Tickets · Giveaways | ✅ | ✅ | ✅ |
+| Temp Voice · Automation · Embeds | ✅ | ✅ | ✅ |
+| Notification accounts | 3 | **25**, posted as the creator | **25**, posted as the creator |
+| Studio-grade music playback | — | ✅ | ✅ |
+| Queues and saved playlists | — | ✅ | ✅ |
+| DJ panel and DJ role | — | ✅ | ✅ |
+| Audio filters (bass, nightcore, 8D) | — | ✅ | ✅ |
+| Web player on the dashboard | — | ✅ | ✅ |
+| Your own name, avatar and presence | — | — | ✅ |
+| Commands and features built to order | — | — | ✅ |
+| Protection and logging set up with you | — | — | ✅ |
+| Direct support from the developer | — | — | ✅ |
+
+## ◈ Founder
+
+<div align="center">
+
+Built and maintained by **Ahmad Alhalabi**
+
+[![ahmadalhalabi.com](https://img.shields.io/badge/AHMADALHALABI.COM-111113?style=for-the-badge&logo=googlechrome&logoColor=D4AF37)](https://ahmadalhalabi.com/)
+
+</div>
+
+## ◈ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,postgres,html,css&theme=dark" alt="Python, JavaScript, TypeScript, Node.js, PostgreSQL, HTML, CSS">
 
 <br><br>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:DC2626,50:D4AF37,100:DC2626)
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:DC2626,50:D4AF37,100:DC2626)
 
-<br>
-
-<b>PROTECT · DETECT · RESPOND · AUTOMATE</b>
-
-</div>
-
----
-
-# ◈ Executive Overview
-
-**SIR Devs** is a security-focused development organization building
-modern protection systems, intelligent automation, and reliable digital infrastructure.
-
-We focus on creating software that is:
-
-<div align="center">
-
-**SECURE** &nbsp; ◈ &nbsp;
-**SCALABLE** &nbsp; ◈ &nbsp;
-**AUTOMATED** &nbsp; ◈ &nbsp;
-**RELIABLE**
-
-</div>
-
----
-
-# 🛡️ Security Ecosystem
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🛡️ Security
-
-**Anti-Raid**  
-**Anti-Nuke**  
-**Threat Detection**  
-**Advanced Auto-Moderation**  
-**Audit & Event Logging**
-
-</td>
-
-<td width="33%" align="center">
-
-## ⚙️ Automation
-
-**Smart Automation**  
-**Ticket Systems**  
-**Giveaways**  
-**Music Systems**  
-**Community Utilities**
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌐 Infrastructure
-
-**Secure APIs**  
-**High Availability**  
-**Monitoring**  
-**Access Control**  
-**Protected Services**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# ◈ Technology
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=700&height=40&lines=PYTHON+%C2%B7+JAVASCRIPT+%C2%B7+TYPESCRIPT;HTML5+%C2%B7+CSS3+%C2%B7+SQL;BUILDING+WITH+MODERN+TECHNOLOGIES)](https://github.com/Sir-Devs)
-
-<br>
-
----
-
-# ◈ Programming Languages
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2600&pause=900&color=D4AF37&center=true&vCenter=true&width=720&height=40&lines=PYTHON+%C2%B7+JAVASCRIPT+%C2%B7+TYPESCRIPT;HTML5+%C2%B7+CSS3+%C2%B7+SQL;ENGINEERED+WITH+MODERN+LANGUAGES)](https://github.com/Sir-Devs)
-
-<br>
-
-<img
-  src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql&theme=dark&perline=6"
-  alt="Programming Languages"
-/>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-09090B?style=for-the-badge&logo=python&logoColor=D4AF37">
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-09090B?style=for-the-badge&logo=javascript&logoColor=D4AF37">
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/TYPESCRIPT-09090B?style=for-the-badge&logo=typescript&logoColor=D4AF37">
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/HTML5-09090B?style=for-the-badge&logo=html5&logoColor=D4AF37">
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/CSS3-09090B?style=for-the-badge&logo=css3&logoColor=D4AF37">
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/SQL-09090B?style=for-the-badge&logo=postgresql&logoColor=D4AF37">
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# ◈ Core Capabilities
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛡️ Protection
-
-- Advanced Anti-Raid
-- Anti-Nuke systems
-- Threat detection
-- Intelligent Auto-Moderation
-- Malicious link filtering
-- Spam suppression
-- Security event detection
-- Automated response
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚙️ Automation
-
-- Ticket management
-- Giveaway systems
-- Music systems
-- Community automation
-- Automated moderation
-- Utility commands
-- Event automation
-- Custom workflows
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔐 Access & Security
-
-- Permission isolation
-- Role-based access
-- Secure credentials
-- Protected APIs
-- Security-first architecture
-- Audit logging
-- Operational visibility
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Infrastructure
-
-- High availability
-- Fault-tolerant services
-- Scalable architecture
-- Monitoring
-- Secure communication
-- API integrations
-- Reliable deployments
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ◈ Engineering Principles
-
-<div align="center">
-
-![Security First](https://img.shields.io/badge/SECURITY_FIRST-09090B?style=for-the-badge&labelColor=DC2626)
-
-![Zero Trust](https://img.shields.io/badge/ZERO_TRUST-09090B?style=for-the-badge&labelColor=18181B)
-
-![Automated Response](https://img.shields.io/badge/AUTOMATED_RESPONSE-09090B?style=for-the-badge&labelColor=18181B)
-
-![High Availability](https://img.shields.io/badge/HIGH_AVAILABILITY-09090B?style=for-the-badge&labelColor=18181B)
-
-![Observability](https://img.shields.io/badge/OBSERVABILITY-09090B?style=for-the-badge&labelColor=18181B)
-
-</div>
-
----
-
-# ◈ Ecosystem Architecture
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 🛡️
-
-**SIR Security**
-
-<sub>
-Server protection<br>
-Threat response<br>
-Moderation
-</sub>
-
-</td>
-
-<td width="25%" align="center">
-
-### ⚙️
-
-**SIR Automation**
-
-<sub>
-Automation engines<br>
-Community systems<br>
-Utilities
-</sub>
-
-</td>
-
-<td width="25%" align="center">
-
-### 🌐
-
-**SIR Dashboards**
-
-<sub>
-Management panels<br>
-Monitoring<br>
-Secure interfaces
-</sub>
-
-</td>
-
-<td width="25%" align="center">
-
-### 🔐
-
-**SIR Core**
-
-<sub>
-Shared libraries<br>
-Security protocols<br>
-APIs
-</sub>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# ◈ Development Philosophy
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=1100&color=A1A1AA&center=true&vCenter=true&width=700&height=40&lines=ENGINEERED+WITH+PRECISION;DESIGNED+FOR+PROTECTION;BUILT+FOR+RELIABILITY;AUTOMATION+WITHOUT+COMPROMISING+SECURITY)](https://github.com/Sir-Devs)
-
-</div>
-
----
-
-# ◈ SIR Security
-
-<div align="center">
-
-### 🛡️ Protect
-
-Advanced protection against raids, nukes, malicious activity, and abuse.
-
-### ◉ Detect
-
-Real-time threat detection and security event monitoring.
-
-### ⚡ Respond
-
-Automated responses designed to contain suspicious activity.
-
-### ⚙️ Automate
-
-Powerful moderation, utility, community, and operational automation.
-
-</div>
-
----
-
-# ◈ What We Build
-
-<div align="center">
-
-| System | Purpose |
-|:---:|:---|
-| 🛡️ Security Systems | Server protection & threat response |
-| ⚙️ Automation | Community & operational automation |
-| 🎫 Ticket Systems | Support & ticket management |
-| 🎵 Music Systems | Music & voice utilities |
-| 🎁 Giveaways | Community engagement systems |
-| 📝 Logging | Security & operational visibility |
-| 🌐 Dashboards | Secure management interfaces |
-| 🔐 Core Services | Shared infrastructure & APIs |
-
-</div>
-
----
-
-# ◈ Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/PERSONAL%20WEBSITE-09090B?style=for-the-badge&logo=google-chrome&logoColor=D4AF37)](https://yourwebsite.com)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=F5F5F5)](https://github.com/Sir-Devs)
-
-[![SIR Security](https://img.shields.io/badge/SIR%20SECURITY-DC2626?style=for-the-badge&logo=shield&logoColor=FFFFFF)](https://github.com/Sir-Devs)
-
-<br><br>
-
-![Footer](https://capsule-render.vercel.app/api?type=rect&height=100&color=0:09090B,50:18181B,100:09090B&text=YOUR%20SAFETY%20%C2%B7%20OUR%20PRIORITY&fontSize=20&fontColor=D4AF37&stroke=D4AF37&strokeWidth=1)
-
-<br>
-
-<sub>
-<b>
-  SIR DEVS</b> · Security-First Engineering
-</sub>
+<sub><b>SIR DEVS</b> · PROTECT · DETECT · RESPOND · AUTOMATE</sub>
 
 </div>
